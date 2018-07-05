@@ -1,3 +1,6 @@
 red
 yellow
 blue
+a
+b
+c
